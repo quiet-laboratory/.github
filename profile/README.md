@@ -1,6 +1,4 @@
-<sub>est. 2019</sub>
-
-## Quiet Laboratory
+## quiet laboratory
 
 Research collective. Applied behavioral observation.
 
